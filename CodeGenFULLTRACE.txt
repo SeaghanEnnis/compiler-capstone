@@ -1,0 +1,17 @@
+FULL TEST File for SEAGHAN ENNIS
+The calculation of 5! is:
+factorial  =   120
+ 
+count  =   6
+Count - 2 is greater than 0
+count  =   5
+Count - 2 is greater than 0
+count  =   4
+Count - 2 is less than or equal to 0
+count  =   3
+Count - 2 is less than or equal to 0
+count  =   2
+Count - 2 is less than or equal to 0
+ 
+All done.
+Execution terminated by stop code!

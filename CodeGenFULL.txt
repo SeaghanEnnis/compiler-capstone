@@ -1,0 +1,29 @@
+module Codegen;
+begin
+writeln("FULL TEST File for SEAGHAN ENNIS");
+
+factorial := 1;
+n := 5;
+count := 1;
+while count <= n do
+  begin
+  factorial := factorial*count;
+  count := count + 1
+  end;
+writeln("The calculation of 5! is:");
+writeln(factorial);
+writeln(" ");
+
+{count should be 6 at this point}
+while count > 1 do
+  begin
+  writeln(count);
+  if count - 2 > 2 then
+    writeln("Count - 2 is greater than 0")
+  else
+    writeln("Count - 2 is less than or equal to 0");
+  count := count -1
+  end;
+writeln(" ");
+writeln("All done.")
+end. 

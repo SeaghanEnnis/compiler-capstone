@@ -1,0 +1,50 @@
+Index          Symbol         Kind           DataType           Value  
+ 
+0|                   a           v                I                          0|
+1|                   1           c                I                          1|
+2|                   b           v                I                          0|
+3|                   c           v                I                          0|
+4|                21.7           c                F                       21.7|
+5|                  22           c                I                         22|
+6|              123456           c                I                          0|
+7|        12.345678911           c                F                        0.0|
+8|hereisareallylongide           v                I                          0|
+9|                  66           c                I                         66|
+10|            76.5E-12           c                F                   7.65E-11|
+11|              109.E+           c                I                          0|
+12|             12.33E5           c                F                  1233000.0|
+13|                12.4           c                F                       12.4|
+14|                   E           v                I                          0|
+15|                   2           c                I                          2|
+16|          myString_1           v                I                          0|
+17|an unfinished string makes an error ;
+           c                S  an unfinished string makes an error ;
+|
+18|                test           v                I                          0|
+19|              single           v                I                          0|
+20|                 and           v                I                          0|
+21|                 two           v                I                          0|
+22|                char           v                I                          0|
+23|              tokens           v                I                          0|
+24|                some           v                I                          0|
+25|                more           v                I                          0|
+26|but first is a good string           c                S  but first is a good string|
+27|             JumpOut           v                I                          0|
+28|                 not           v                I                          0|
+29|                that           v                I                          0|
+30|             nothing           v                I                          0|
+31|                   I           v                I                          0|
+32|              100.E7           c                I                          0|
+33|             declare           v                I                          0|
+34|                UNIT           v                I                          0|
+35|                done           v                I                          0|
+36|                TRUE           v                I                          0|
+37|                does           v                I                          0|
+38|           Beginning           v                I                          0|
+39|             reserve           v                I                          0|
+40|                 sum           v                I                          0|
+41|                 0.0           c                F                        0.0|
+42|                What           v                I                          0|
+43|                  2.           c                F                        2.0|
+44|                  is           v                I                          0|
+45|               found           v                I                          0|

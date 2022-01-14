@@ -1,0 +1,22 @@
+PC = 0000: PRINT 03, 00, 00
+BASIC TEST File  =   BASIC TEST File
+PC = 0001: PRINT 04, 00, 00
+String printout:  Hello World  =   String printout:  Hello World
+PC = 0002: MOV   06, 00, 05
+PC = 0003: MOV   08, 00, 07
+PC = 0004: ADD   08, 07, 09
+PC = 0005: MUL   05, 09, 10
+PC = 0006: ADD   10, 05, 11
+PC = 0007: MUL   06, 07, 12
+PC = 0008: DIV   12, 06, 13
+PC = 0009: ADD   11, 13, 14
+PC = 0010: SUB   14, 01, 15
+PC = 0011: MOV   15, 00, 05
+PC = 0012: PRINT 16, 00, 00
+a is now   =   a is now 
+PC = 0013: PRINT 05, 00, 00
+a  =   16
+PC = 0014: PRINT 17, 00, 00
+All done.  =   All done.
+PC = 0015: STOP  00, 00, 00
+Execution terminated by stop code!

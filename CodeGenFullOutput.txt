@@ -1,0 +1,53 @@
+Parsing CodeGenFULL-FA21.txt
+0001 module Codegen;
+CodeGenFULL-FA21
+0002 begin
+0003 writeln("FULL TEST File for SEAGHAN ENNIS");
+0004 
+0005 factorial := 1;
+0006 n := 5;
+0007 count := 1;
+0008 while count <= n do
+FOUND WHILE!
+0009   begin
+0010   factorial := factorial*count;
+0011   count := count + 1
+0012   end;
+0013 writeln("The calculation of 5! is:");
+0014 writeln(factorial);
+0015 writeln(" ");
+0016 
+0017 {count should be 6 at this point}
+0018 while count > 1 do
+FOUND WHILE!
+0019   begin
+0020   writeln(count);
+0021   if count - 2 > 2 then
+FOUND IF!
+0022     writeln("Count - 2 is greater than 0")
+0023   else
+0024     writeln("Count - 2 is less than or equal to 0");
+0025   count := count -1
+0026   end;
+0027 writeln(" ");
+0028 writeln("All done.")
+0029 end. 
+Success.
+FULL TEST File for SEAGHAN ENNIS
+The calculation of 5! is:
+factorial  =   120
+ 
+count  =   6
+Count - 2 is greater than 0
+count  =   5
+Count - 2 is greater than 0
+count  =   4
+Count - 2 is less than or equal to 0
+count  =   3
+Count - 2 is less than or equal to 0
+count  =   2
+Count - 2 is less than or equal to 0
+ 
+All done.
+Execution terminated by stop code!
+Done.

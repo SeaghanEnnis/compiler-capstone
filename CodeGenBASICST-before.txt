@@ -1,0 +1,20 @@
+Index          Symbol         Kind           DataType           Value  
+ 
+0|                  -1           I                I                         -1|
+1|                   1           I                I                          1|
+2|        CodegenBASIC           p                I                          0|
+3|     BASIC TEST File           c                S            BASIC TEST File|
+4|String printout:  Hello World           c                S  String printout:  Hello World|
+5|                   a           v                I                          0|
+6|                   2           c                I                          2|
+7|                   b           v                I                          0|
+8|                   3           c                I                          3|
+9|                  @0           I                I                          0|
+10|                  @1           I                I                          0|
+11|                  @2           I                I                          0|
+12|                  @3           I                I                          0|
+13|                  @4           I                I                          0|
+14|                  @5           I                I                          0|
+15|                  @6           I                I                          0|
+16|           a is now            c                S                  a is now |
+17|           All done.           c                S                  All done.|

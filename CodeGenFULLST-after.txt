@@ -1,0 +1,23 @@
+Index          Symbol         Kind           DataType           Value  
+ 
+0|                  -1           I                I                         -1|
+1|                   1           I                I                          1|
+2|             Codegen           p                I                          0|
+3|FULL TEST File for SEAGHAN ENNIS           c                S  FULL TEST File for SEAGHAN ENNIS|
+4|           factorial           v                I                        120|
+5|                   n           v                I                          5|
+6|                   5           c                I                          5|
+7|               count           v                I                          1|
+8|                  @0           I                I                          1|
+9|                  @1           I                I                        120|
+10|                  @2           I                I                          6|
+11|The calculation of 5! is:           c                S  The calculation of 5! is:|
+12|                               c                S                           |
+13|                  @3           I                I                          0|
+14|                   2           c                I                          2|
+15|                  @4           I                I                          0|
+16|                  @5           I                I                         -2|
+17|Count - 2 is greater than 0           c                S  Count - 2 is greater than 0|
+18|Count - 2 is less than or equal to 0           c                S  Count - 2 is less than or equal to 0|
+19|                  @6           I                I                          1|
+20|           All done.           c                S                  All done.|
